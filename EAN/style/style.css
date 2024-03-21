@@ -450,14 +450,14 @@
   background-image: url(../images/bg-routine-min.png);
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: 41% top;
+  background-position: 25% top;
   padding: 20px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-end;
   position: relative;
-  min-height: 820px;
+  min-height: 760px;
 }
 #la-roche.la-roche .es-cross:nth-child(2) {
   align-self: flex-start;
@@ -794,16 +794,15 @@
     max-width: 433px;
     margin: 0 auto;
     line-height: 1.4;
-    font-size: 13px;
+    font-size: 11px;
     font-weight: 100;
   }
   #la-roche.la-roche .es-features__label-description {
     display: block;
-    max-width: 350px;
-    margin: 0 auto;
+    max-width: 280px;
+    font-size: 14px;
+    margin: 0px auto 25px;
     padding: 10px 40px;
-    margin-bottom: 25px;
-    font-size: 16px;
   }
   #la-roche.la-roche .es-cross {
     margin-top: 120px;
@@ -826,15 +825,15 @@
   }
   #la-roche.la-roche .es-cross__content--1 {
     margin-top: -120px;
-    margin-left: 10px;
+    margin-left: -25px;
   }
   #la-roche.la-roche .es-cross__content--2 {
     margin-top: 160px;
-    margin-right: 50px;
+    margin-right: 0px;
   }
   #la-roche.la-roche .es-cross__content--3 {
     margin-top: -177px;
-    margin-left: 26px;
+    margin-left: -5px;
   }
   #la-roche.la-roche .es-cross__desc {
     max-width: 23ch;
@@ -843,7 +842,7 @@
   }
   #la-roche.la-roche .es-cross__single--1 {
     top: 54px;
-    left: 104px;
+    left: 65px;
   }
   #la-roche.la-roche .es-cross__single--2 {
     top: 348px;
@@ -851,16 +850,16 @@
   }
   #la-roche.la-roche .es-cross__single--3 {
     bottom: -169px;
-    left: 69px;
+    left: 45px;
   }
   #la-roche.la-roche .es-cross__single--1 img {
     height: 600px;
   }
   #la-roche.la-roche .es-cross__single--2 img {
-    height: 419px;
+    height: 360px;
   }
   #la-roche.la-roche .es-cross__single--3 img {
-    height: 380px;
+    height: 340px;
   }
   #la-roche.la-roche .es-obligations {
     margin-top: 250px;
